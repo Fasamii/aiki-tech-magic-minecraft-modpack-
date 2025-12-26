@@ -1,1 +1,7 @@
-/logs
+/logs/
+/crash-reports/
+/screenshots/
+/shadercache/
+
+usercache.json
+usernamecache.json
